@@ -2,7 +2,7 @@
 
  ----------
 
-Rexy is a kind of a wild beast and may doesn't seem friendly at first sight. But you can bring him around using [UPeT](https://github.com/kasramvd/UPeT).
+Rexy is kind of a wild beast and may doesn't seem so friendly at the first sight. But don't worry! you can easily bring him around using [UPeT](https://github.com/kasramvd/UPeT).
 
  -----------
  
