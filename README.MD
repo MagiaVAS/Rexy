@@ -1,7 +1,5 @@
 ## Preamble
 
-
-<<<<<<< 58f81204c1b7fb02f7fe8392404c4e86c991f26d
 **Rexy** (rec-sy) is an open-source recommendation system based on a general User-Product-Tag schema and a flexible structure that has been designed to be adaptable with variant data-schema. There are a lot of methods and ways that Rexy is used to recommend the products to users. This is contain general recommendations like top products, even based recommendations and Novel products that the user might be interested in. There are other recommendations that are directly related to the user's activities or other users that have a similar behavior as the given user.
 
 Along side the recommendations that are related to user's interests there are also some modules designed to find the most proper products based on other factors like advertisement, social, etc. and don't have the side effects of a commercial advertisement systems. For instance, `Email` and `Search` modules are designed to support such goals.
